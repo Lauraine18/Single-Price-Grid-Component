@@ -8,7 +8,7 @@
 
  Project was inspired by https://www.frontendmentor.io/
 
- **Inspiration**
+ **View**
 
  <h2 align="center">Mobile Design</h2>
  <p align="center">
